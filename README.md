@@ -1,0 +1,1 @@
+# net6.0-dynamic-body-api-endpoint
